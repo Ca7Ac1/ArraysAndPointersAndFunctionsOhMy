@@ -51,7 +51,7 @@ int main()
 
     printArr(5, arr);
 
-    printf("avg: %d\n\n", avgArr(5, arr));
+    printf("avg: %f\n\n", avgArr(5, arr));
 
     int copy[5];
     copyArr(5, arr, copy);
